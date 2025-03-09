@@ -1,5 +1,7 @@
 # Employee Attrition Prediction ML Project
 
+[CHECK IT OUT HERE! 🚀](https://eshagarwal.github.io/ML_Gisma_Project/)
+
 ## Overview
 This project implements machine learning models to predict employee attrition using the IBM HR Analytics Employee Attrition dataset from Kaggle. The goal is to identify key factors that influence employee turnover and build predictive models to help HR professionals make data-driven decisions.
 
