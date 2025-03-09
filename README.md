@@ -53,7 +53,7 @@ jupyter notebook employee_attrition_ML_project.ipynb
 - Insights derived from the analysis
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 - Dataset provided by IBM HR Analytics Employee Attrition & Performance on Kaggle
